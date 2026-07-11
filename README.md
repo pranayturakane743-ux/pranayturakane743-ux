@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0DAD,100:8B5CF6&height=220&section=header&text=Pranay%20Turakane&fontSize=46&fontColor=E9D8FD&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20Engineering%20Student%20%7C%20ML%20%26%20Computer%20Vision%20%7C%20Full-Stack%20Builder&descAlign=50&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0DAD,100:8B5CF6&height=220&section=header&text=Pranay%20Turakane&fontSize=46&fontColor=E9D8FD&fontAlign=50&fontAlignY=38&animation=typeWiggle&desc=Data%20Science%20Engineering%20Student%20%7C%20ML%20%26%20Computer%20Vision%20%7C%20Full-Stack%20Builder&descAlign=50&descAlignY=58&descSize=17" width="100%"/>
 
-<a href="#">
+<a href="https://github.com/pranayturakane743-ux">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=Turning+Raw+Data+Into+Real+Decisions;Computer+Vision+%2B+Machine+Learning;Building+Full-Stack+Products+That+Ship;Open+to+Data+Science+%2F+ML+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
-
-
 
 ![Academic](https://img.shields.io/badge/🎓_B.E.-Data%20Science%20Engineering-6D28D9?style=for-the-badge)
 ![CGPA](https://img.shields.io/badge/CGPA-7.55%20%2F%2010-4F46E5?style=for-the-badge)
@@ -18,7 +16,7 @@
 
 <a href="https://linkedin.com/in/pranayturakane"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pranayturakane743@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/pranayturakane"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
+<a href="https://github.com/pranayturakane743-ux"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
 
 <!-- Add a Portfolio button here once you have a live site, e.g.:
 <a href="https://yourdomain.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -26,8 +24,8 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranayturakane&label=Profile%20Views&color=6D28D9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/pranayturakane?label=Followers&style=for-the-badge&color=4F46E5&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=pranayturakane743-ux&label=Profile%20Views&color=6D28D9&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/pranayturakane743-ux?label=Followers&style=for-the-badge&color=4F46E5&logo=github&logoColor=white)
 ![Repo Stars](https://img.shields.io/github/stars/pranayturakane743-ux/Sevico-India?label=Stars%20(Sevico%20India)&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white)
 
 </div>
@@ -44,7 +42,13 @@ I'm a Data Science Engineering undergraduate at **JD College of Engineering & Ma
 - 🌱 Currently sharpening my full-stack and ML fundamentals ahead of my final year project.
 - 🎯 **Open to:** Data Science / ML internships, freelance web builds, hackathons, and open-source collaboration.
 
-> I done In House Intership in Web Development — what I do have is a growing stack of self-driven, finished projects. That's by design.
+> I don't have industry experience yet — what I do have is a growing stack of self-driven, finished projects. That's by design.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=6D28D9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+Overview+Below;%F0%9F%92%BB+Languages%2C+Tools+%26+Frameworks+I+use" alt="Tech Stack Intro" />
+
+</div>
 
 ---
 
@@ -92,6 +96,12 @@ I'm a Data Science Engineering undergraduate at **JD College of Engineering & Ma
 | **Exploratory Data Analysis** | Intermediate | Pandas + NumPy for cleaning, transforming and profiling data ahead of modeling |
 | **Data Visualization & BI** | Intermediate | Matplotlib, Seaborn & Power BI for statistical and business-facing reporting |
 | **Statistics & Probability** | Foundational, applied | Core theory underpinning model evaluation and result interpretation |
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%92%BC+Featured+Projects+%E2%80%94+click+to+expand!" alt="Projects Intro" />
+
+</div>
 
 ---
 
@@ -217,6 +227,12 @@ Calculates total marks, percentage, and grade automatically from user input for 
 
 </details>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=6D28D9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%92%BC+More+than+just+code+%E2%80%94+here%27s+my+journey." alt="Experience Intro" />
+
+</div>
+
 ---
 
 ## 🧭 Experience
@@ -234,17 +250,21 @@ Active member
 
 🎯 Actively looking for a Data Science / ML internship — see [Featured Projects](#-featured-projects) above for what I bring on day one.
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%8F%86+Milestones+&+Achievements+%E2%80%94+let%27s+go!" alt="Achievements Intro" />
+
+</div>
+
 ---
 
 ## 🏆 Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🏆 College-Level Hackathon 2026 | JDCOEM |
-| 🏆 Central India Hackathon 3.0 | Unstop |
-| 🎮 Gaming Club, JDCOEM | Active Member |
+<p><img src="https://img.shields.io/badge/%F0%9F%8F%86_College_Level_Hackathon_2026-JDCOEM-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></p>
+<p><img src="https://img.shields.io/badge/%F0%9F%8F%86_Central_India_Hackathon_3.0-Unstop-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></p>
+<p><img src="https://img.shields.io/badge/%F0%9F%8E%AE_Gaming_Club-JDCOEM%20Active_Member-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></p>
 
 </div>
 
@@ -252,25 +272,21 @@ Active member
 
 ## 📜 Certifications
 
-**NVIDIA**
+<div align="center">
 
-![Data Science & Analytics](https://img.shields.io/badge/Data%20Science%20%26%20Analytics-76B900?style=flat-square&logo=nvidia&logoColor=white)
+<p><img src="https://img.shields.io/badge/NVIDIA-Data%20Science%20%26%20Analytics-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0D1117" /></p>
+<p><img src="https://img.shields.io/badge/IIT%20Bombay%20%E2%80%94%20Spoken%20Tutorial-Advanced%20C%2B%2B-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></p>
+<p><img src="https://img.shields.io/badge/L%26T%20EduTech-Master%20in%20Linux-4F46E5?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" /></p>
+<p><img src="https://img.shields.io/badge/NPTEL-Soft%20Skill%20Development-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></p>
+<p><img src="https://img.shields.io/badge/Eduskill-Ethical%20Hacking-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></p>
 
-**IIT Bombay — Spoken Tutorial**
+</div>
 
-![Advanced C++](https://img.shields.io/badge/Advanced%20C%2B%2B-6D28D9?style=flat-square)
+<div align="center">
 
-**L&T EduTech**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%92%BB+My+coding+profiles+across+platforms+%E2%80%94+check+them+out!" alt="Coding Profiles Intro" />
 
-![Master in Linux](https://img.shields.io/badge/Master%20in%20Linux-4F46E5?style=flat-square&logo=linux&logoColor=white)
-
-**NPTEL**
-
-![Soft Skill Development](https://img.shields.io/badge/Soft%20Skill%20Development-8B5CF6?style=flat-square)
-
-**Eduskill**
-
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-6D28D9?style=flat-square)
+</div>
 
 ---
 
@@ -289,18 +305,24 @@ Active member
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%93%8A+Here%27s+how+I%27m+doing+on+GitHub+&F0%9F%92%BB+Stats+below!" alt="GitHub Analytics Intro" />
+
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranayturakane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=6D28D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayturakane&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranayturakane743-ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=6D28D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayturakane743-ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pranayturakane&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=E9D8FD&sideNums=E9D8FD&dates=6B7280" />
+<img src="https://streak-stats.demolab.com?user=pranayturakane743-ux&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=E9D8FD&sideNums=E9D8FD&dates=6B7280" />
 
 </div>
 
@@ -310,7 +332,13 @@ Active member
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pranayturakane&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=pranayturakane743-ux&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%93%88+My+contribution+activity+graph+%E2%80%94+stay+consistent!" alt="Activity Intro" />
 
 </div>
 
@@ -320,7 +348,13 @@ Active member
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranayturakane&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E9D8FD&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranayturakane743-ux&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E9D8FD&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%90%8D+Watch+the+snake+consume+my+contributions!" alt="Snake Intro" />
 
 </div>
 
@@ -391,15 +425,41 @@ current_focus:
     - Open-source contributions
 ```
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%F0%9F%9A%80+Building+the+future+one+line+at+a+time.;%E2%9C%A8+Code.+Create.+Deploy.+Repeat.;%F0%9F%94%A5+Never+stop+learning." alt="Current Focus Typing" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=%F0%9F%92%AC+A+random+quote+for+motivation;+%E2%9C%A8+Keep+building!" alt="Quote Intro" />
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=Let%27s+connect+and+build+something+amazing!;Drop+me+an+email+or+reach+out+on+LinkedIn." alt="Connect Typing" />
+
+<br/>
+
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranayturakane743@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranayturakane)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/pranayturakane)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/pranayturakane743-ux)
 
 </div>
 
@@ -407,8 +467,10 @@ current_focus:
 
 <div align="center">
 
-<i>"Data doesn't speak for itself — someone has to build the thing that lets it."</i>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Data+doesn%27t+speak+for+itself+%E2%80%94+someone+has+to+build+the+thing+that+lets+it.+%F0%9F%9A%80;Thanks+for+visiting+my+profile!+Have+a+great+day!+%E2%9C%A8" alt="Footer Typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6A0DAD,100:0D0221&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:8B5CF6,50:6A0DAD,100:0D0221&height=120&section=footer&fontColor=E9D8FD&fontSize=17&text=Thanks+for+stopping+by!+%F0%9F%91%8B&fontAlignY=40&fontAlign=50" width="100%"/>
 
 </div>
