@@ -44,7 +44,7 @@ I'm a Data Science Engineering undergraduate at **JD College of Engineering & Ma
 - 🌱 Currently sharpening my full-stack and ML fundamentals ahead of my final year project.
 - 🎯 **Open to:** Data Science / ML internships, freelance web builds, hackathons, and open-source collaboration.
 
-> I don't have industry experience yet — what I do have is a growing stack of self-driven, finished projects. That's by design.
+> I done In House Intership in Web Development — what I do have is a growing stack of self-driven, finished projects. That's by design.
 
 ---
 
