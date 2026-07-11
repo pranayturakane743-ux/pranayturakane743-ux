@@ -8,6 +8,8 @@
 
 <br/>
 
+
+
 ![Academic](https://img.shields.io/badge/🎓_B.E.-Data%20Science%20Engineering-6D28D9?style=for-the-badge)
 ![CGPA](https://img.shields.io/badge/CGPA-7.55%20%2F%2010-4F46E5?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Nagpur-Maharashtra%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
