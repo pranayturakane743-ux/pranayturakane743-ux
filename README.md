@@ -18,9 +18,8 @@
 <a href="mailto:pranayturakane743@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/pranayturakane743-ux"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" /></a>
 
-<!-- Add a Portfolio button here once you have a live site, e.g.:
-<a href="https://yourdomain.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
--->
+
+
 
 <br/><br/>
 
