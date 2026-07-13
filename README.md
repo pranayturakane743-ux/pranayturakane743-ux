@@ -415,39 +415,7 @@ src="https://raw.githubusercontent.com/pranayturakane743-ux/pranayturakane743-ux
 
 </div>
 
----
 
-# 🌌 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pranayturakane743-ux/pranayturakane743-ux/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</div>
-
----
-
-# ⚡ GitHub Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pranayturakane743-ux/pranayturakane743-ux/main/github-metrics.svg"/>
-
-</div>
-
----
-
-# 💻 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=github_dark&hide_border=true"/>
-
-</div>
-
-> ❗ Remove this section if you don't use **WakaTime**.
-
----
 
 # 🎯 2026 Goals
 
