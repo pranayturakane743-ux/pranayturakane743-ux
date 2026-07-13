@@ -61,7 +61,6 @@ Currently improving my
 ```yaml
 Name: Pranay Turakane
 
-Education:
   Degree: B.Tech 
   Branch: Computer Science & Engineering (Data Science)
 
