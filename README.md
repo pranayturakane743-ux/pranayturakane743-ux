@@ -12,7 +12,7 @@
 
 <img align="right" width="380" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
 
-🎓 **B.E. Computer Science & Engineering (Data Science)**
+🎓 **B.Tech. Computer Science & Engineering (Data Science)**
 
 🏫 JD College of Engineering & Management
 
@@ -62,7 +62,7 @@ Currently improving my
 Name: Pranay Turakane
 
 Education:
-  Degree: Bachelor of Engineering
+  Degree: B.Tech 
   Branch: Computer Science & Engineering (Data Science)
 
 Current Focus:
