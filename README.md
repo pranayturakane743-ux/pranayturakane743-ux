@@ -339,13 +339,11 @@ Goals 2026:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranayturakane743-ux&show_icons=true&theme=github_dark&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranayturakane743-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayturakane743-ux&layout=compact&theme=github_dark&hide_border=true&border_radius=15&langs_count=8"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranayturakane743-ux&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 <div align="center">
 
@@ -397,15 +395,6 @@ Goals 2026:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranayturakane743-ux&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
